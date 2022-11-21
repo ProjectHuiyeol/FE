@@ -1,2 +1,2 @@
-# FE
+# frontend
 Vue.js+Bootstrap
